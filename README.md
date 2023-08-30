@@ -16,7 +16,7 @@ Before you begin, make sure you have the following software installed:
 ### Installation
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/calculator-app.git ↗
+git clone [https://github.com/AbdulkadirAbdullahi/Full-stack-Assesment.git](https://github.com/AbdulkadirAbdullahi/Full-stack-Assessment.git) ↗
 cd calculator-app
 2. Install dependencies for both the frontend and backend:
 
