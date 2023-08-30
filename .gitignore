@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Compiled files
+dist/
+build/
+out/
+
+# Log files
+*.log
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+npm-shrinkwrap.json
+
+# IDE configuration
+*.iml
